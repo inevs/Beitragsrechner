@@ -1,8 +1,6 @@
-# Clone repo into own Project
+# Beitragsrechner
 
-```
-git clone <repo> my-project
-```
+Eine Übung zum Refactoring. Erweitere die Logik so, dass Studenten (Männer und Frauen) einen Rabatt in Höhe von 20% auf den jeweiligen Beitrag für Mann oder Frau bekommen.
 
 # Working with the code
 
